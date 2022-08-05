@@ -18,9 +18,9 @@ Nice to have:
 
 ### Table
 You can find a table with all the uploaded plot functionalities in our internal cloud service here
-[Link to Wolke]([https://link-url-here.org](https://wolke.rl-institut.de/s/8PPCwcD8ddWdnXj))
-When adding code to the repository, please make sure to fill the table as far as possible. Bold column names should be the minimal requirments
+[Link to Wolke](https://wolke.rl-institut.de/s/8PPCwcD8ddWdnXj).
 
+When adding code to the repository, please make sure to fill the table as far as possible. Bold column names should be the minimal requirments
 **Name**: A short name defining the plot functionality							
 **Description**: A comprehensive description for what this code snippet can be used for							
 **Plot Type**: Plot Type description. If is an auxillary function used in plottling like data-handling, plot positioning, plor formating use "None"					
