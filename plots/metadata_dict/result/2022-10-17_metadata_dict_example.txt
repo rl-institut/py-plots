@@ -1,0 +1,13 @@
+Author: Ludee
+Date: 2022-10-17
+Title: PV-Einspeisung pro Monat
+Filename: 2022-10-17_metadata_dict_example
+Value: Einspeisung (E_AC)
+Unit: kWh
+Y-Axis: Einspeisung (E_AC) in kWh
+X-Axis: Monat
+Copyright: © Reiner Lemoine Institut
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License_URL: https://creativecommons.org/licenses/by/4.0/legalcode
+License_SPDX: CC-BY-4.0
+Citation: PV-Einspeisung pro Monat © Reiner Lemoine Institut | CC-BY-4.0
